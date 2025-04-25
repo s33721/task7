@@ -1,6 +1,6 @@
-public class Canine extends Animal{
+public class Canine extends Animal {
     @Override
-    public void roam(){
+    public void roam() {
         System.out.println("Moving around");
     }
 }

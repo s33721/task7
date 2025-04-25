@@ -1,6 +1,6 @@
-public class Feline extends Animal{
+public class Feline extends Animal {
     @Override
-    public void roam(){
+    public void roam() {
         System.out.println("Wandering");
     }
 }
